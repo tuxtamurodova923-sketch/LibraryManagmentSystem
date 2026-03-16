@@ -13,7 +13,7 @@ Consoledan 1ni tanlasa unda kitob qoshish  munkin
 u uchun kitobga id kiritib , Titlega nomini bering , Authorga mualifni bering shundan so'ng kitob qoshiladi.
 
 ### Dastur ishlashi
-![gif](/dacumnt/gif/1.1.gif)
+![gif](/LibraryManagmentSystem/dacumnt/gif/1.1.gif)
 
 
 ## 2.1 Kitob ijaraga berish
@@ -21,20 +21,20 @@ Consoledan 2ni tanlasa qaysi kitobni ijaraga olishni suraydi
 va mijozdan id,Title,Authorni kiritishini so'raydi va u kitobni ijaraga beradi.
 
 ### Dastur ishlashi
-![gif](/dacumnt/gif/2.1.gif)
+![gif](/LibraryManagmentSystem/dacumnt/gif/2.1.gif)
 
 ## 3.1 Barcha kitoblar
 Consoledan 3ni tanlansa U kutibxonadagi barcha kitoblarni 
 chiqarib beradi harqanday turdagisini.
 
 ### Dastur ishlashi
-![gif](/dacumnt/gif/3.1.gif)
+![gif](/LibraryManagmentSystem/dacumnt/gif/3.1.gif)
 
 ## 4.1 Kitob qaytarish
 Consoledan 4ni tanlasa u ijaraga berilgan kitoblarni qaytarib oladi.
 
 ### Dastur ishlashi
-![gif](/dacumnt/gif/4.1.gif)
+![gif](/LibraryManagmentSystem/dacumnt/gif/4.1.gif)
 
 ## 5.1 Chiqish
 Consoledan 5ni tanlasa. U Dastur yakunlandi deb chiqarib beradi.
